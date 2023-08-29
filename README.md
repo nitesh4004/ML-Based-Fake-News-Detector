@@ -3,14 +3,68 @@ I undertook a comprehensive Machine Learning project focused on Fake News Detect
 The project imports the following libraries:
 
 pandas: This library is used to read and manipulate dataframes.
+
+
+
+
+
+
 numpy: This library is used for mathematical operations.
+
+
+
+
+
+
 seaborn: This library is used for data visualization.
+
+
+
+
+
+
 matplotlib: This library is also used for data visualization.
+
+
+
+
+
+
 sklearn.model_selection: This library is used to split the data into training and test sets.
+
+
+
+
+
+
 sklearn.metrics: This library is used to evaluate the performance of the model.
+
+
+
+
+
+
 re: This library is used to perform regular expression operations.
+
+
+
+
+
+
 string: This library is used to perform string operations.
+
+
+
+
+
+
 The project is divided into the following steps:
+
+
+
+
+
+
 
 Import the data form keggle  (https://www.kaggle.com/c/fake-news/data)
 
