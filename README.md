@@ -14,8 +14,29 @@ The project is divided into the following steps:
 
 Import the data form keggle  (https://www.kaggle.com/c/fake-news/data)
 *Clean the data.
+
+
+
+
 *Split the data into training and test sets.
+
+
+
+
+
 *Train the model.
+
+
+
+
 *Evaluate the model.
+
+
+
+
 *Use the model to classify new articles.
+
+
+
+
 The project is still under development, but it has the potential to be a valuable tool for detecting fake news.
