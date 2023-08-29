@@ -13,6 +13,11 @@ string: This library is used to perform string operations.
 The project is divided into the following steps:
 
 Import the data form keggle  (https://www.kaggle.com/c/fake-news/data)
+
+
+
+
+
 *Clean the data.
 
 
